@@ -8,6 +8,9 @@ as well as my data preprocessing steps.
 
 
 ### Final visualization
+
+(downloadable via NewsDeserts_Dinesh.pdf)
+
 ![image](https://user-images.githubusercontent.com/108999498/216104602-112016c4-d696-47e4-b4f6-e1168c6b35cf.png)
 
 ### Datasets
